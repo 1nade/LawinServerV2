@@ -1,7 +1,7 @@
 {
-    "moderators": ["discordId"],
+    "moderators": ["320002284186763264"],
     "discord": {
-        "bot_token": ""
+        "bot_token": "MTA4NjUwNDQ3Njc4MjkwMzM0Ng.GCbEdN.C7EcR0MhIPmEelTLxy5bayG8PBPLvuPWf39n5w"
     },
     "mongodb": {
         "database": "mongodb://127.0.0.1/lawindb"
